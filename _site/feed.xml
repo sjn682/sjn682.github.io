@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-09T00:02:00+08:00</updated><id>/feed.xml</id><entry><title type="html">Markdown</title><link href="/2021/05/01/markdown.html" rel="alternate" type="text/html" title="Markdown" /><published>2021-05-01T00:00:00+08:00</published><updated>2021-05-01T00:00:00+08:00</updated><id>/2021/05/01/markdown</id><content type="html" xml:base="/2021/05/01/markdown.html">&lt;p&gt;我的MARKDOWN练习&lt;/p&gt;
+
+&lt;h1 id=&quot;markdown学习&quot;&gt;Markdown学习&lt;/h1&gt;
+
+&lt;h2 id=&quot;一markdown标题&quot;&gt;一.MARKDOWN标题&lt;/h2&gt;
+
+&lt;h2 id=&quot;书写方式2种&quot;&gt;书写方式(2种)&lt;/h2&gt;
+
+&lt;h4 id=&quot;1文本换行-加&quot;&gt;1.文本换行 加=&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;h1 id=&quot;一级标题&quot;&gt;一级标题&lt;/h1&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;h2 id=&quot;二级标题&quot;&gt;二级标题&lt;/h2&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;2__-后空格文本&quot;&gt;2.&lt;em&gt;__&lt;/em&gt;# 后空格+文本&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;h1 id=&quot;一级标题-1&quot;&gt;一级标题&lt;/h1&gt;
+    &lt;blockquote&gt;
+      &lt;h2 id=&quot;二级标题-1&quot;&gt;二级标题&lt;/h2&gt;
+      &lt;blockquote&gt;
+        &lt;h3 id=&quot;三级标题&quot;&gt;三级标题&lt;/h3&gt;
+        &lt;blockquote&gt;
+          &lt;h4 id=&quot;四级标题&quot;&gt;四级标题&lt;/h4&gt;
+          &lt;blockquote&gt;
+            &lt;h5 id=&quot;五级标题&quot;&gt;五级标题&lt;/h5&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;二markdown字体&quot;&gt;二.MARKDOWN字体&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;粗斜体&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;粗斜体： &lt;strong&gt;&lt;em&gt;粗斜体&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;删除文本 ：&lt;del&gt;删除文本&lt;/del&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;三markdown列表&quot;&gt;三.MARKDOWN列表&lt;/h2&gt;
+
+&lt;h4 id=&quot;有序列表1-空格文本&quot;&gt;有序列表:1. 空格+文本&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;无序列表1用-空格-2-空格&quot;&gt;无序列表:(1)用+ 空格 (2)* 空格&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;这是有序列表和无序列表的混用&quot;&gt;&lt;strong&gt;这是有序列表和无序列表的混用&lt;/strong&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;无序列表作为有序列表的子列表的时候，需要再子列表的字段前面加一个Tab键&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;考研
+      &lt;ul&gt;
+        &lt;li&gt;英语&lt;/li&gt;
+        &lt;li&gt;数学&lt;/li&gt;
+        &lt;li&gt;政治&lt;/li&gt;
+        &lt;li&gt;专业课&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;工作
+      &lt;ul&gt;
+        &lt;li&gt;代码&lt;/li&gt;
+        &lt;li&gt;面试&lt;/li&gt;
+        &lt;li&gt;….&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;四markdown链接&quot;&gt;四.MARKDOWN链接&lt;/h2&gt;
+&lt;h4 id=&quot;链接名称-参考式实现-我经常去的几个网站&quot;&gt;&lt;a href=&quot;链接地址&quot;&gt;链接名称&lt;/a&gt; &lt;em&gt;参考式实现&lt;/em&gt; 我经常去的几个网站&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.runoob.com&quot;&gt;菜鸟教程&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://www.csdn.net&quot;&gt;CSDN&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;五markdown高级技巧&quot;&gt;五.MARKDOWN高级技巧&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;graph LR
+A[学习] --&amp;gt;B( 实践)
+    B ---&amp;gt; C{遇到问题}
+    C ----&amp;gt;|上网查找| D[结果1]
+    C ----&amp;gt;|询问老师| E[结果2]
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;    pie 
+    title 成绩评定标准
+    &quot;期末成绩&quot; : 60
+    &quot;平时成绩&quot; : 20
+    &quot;期中成绩&quot; : 20
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;
+gantt
+	title 我的web学习过程
+
+	dateFormat 2021-0-DD
+	section 学习jekyll
+	第一任务:done, des1, 2019-09-6, 2d
+	第二任务:crit, active,after des1,5d
+	第三任务:3d
+    section 学习Nginx
+	第一任务:done, des1, 2019-09-6, 2d
+	第二任务: active,after des1,6d
+	第三任务:crit, 2d
+    section 学习git
+	第一任务:done, des1, 2019-09-6, 2d
+	第二任务: active,after des1,3d
+	第三任务:crit, 4d
+&lt;/code&gt;&lt;/pre&gt;</content><author><name>jill</name></author><summary type="html">我的MARKDOWN练习</summary></entry><entry><title type="html">Report</title><link href="/2021/04/28/report.html" rel="alternate" type="text/html" title="Report" /><published>2021-04-28T00:00:00+08:00</published><updated>2021-04-28T00:00:00+08:00</updated><id>/2021/04/28/report</id><content type="html" xml:base="/2021/04/28/report.html">&lt;p&gt;WEB应用软件开发实训作业-开发一个静态网站&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;web应用软件开发实训&quot;&gt;WEB应用软件开发实训&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;网站的公网网址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;网站源代码Github仓库网址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;一网站目录结构&quot;&gt;一、网站目录结构&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://note.youdao.com/noteshare?id=0e71d863adb09251da36803f7c2a2e9a&amp;amp;sub=4BAC71DCE87F4F4C82D8CE4C87135575&quot;&gt;tree命令输出目录&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;二网站截图截图内容&quot;&gt;二、网站截图截图内容:&lt;/h2&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=3732f69c6801014e77e085d9ec212b6c&amp;amp;sub=57B4E19AAD9347E39AC2ACA964146B79&quot;&gt;首页&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=32a28db1efc4afc8927336384010a2bd&quot;&gt;Blog列表页&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=19ffc6bc56dea794ddf17327083c3f43&amp;amp;sub=54BD814243044034A35965698C4A0BEA&quot;&gt;Post1&lt;/a&gt;
+-&lt;a href=&quot;http://note.youdao.com/noteshare?id=195afd0a4b507ef061935127f0321304&amp;amp;sub=86A60B9279914465B8B8D4481999B8CC&quot;&gt;Post2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=e290350f1110c106aa83b81b4177cfe7&amp;amp;sub=840D5E1A6143454CBCFECC3BD414F61A&quot;&gt;Staff列表页&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=d6ad076b6a06f0be072ef6290f554698&amp;amp;sub=47BBEA8768B6444D9E14277D3FFB9824&quot;&gt;一个作者简介页面&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;-&lt;a href=&quot;http://note.youdao.com/noteshare?id=7e48322ef1b99e4d1e7b5403226534f6&amp;amp;sub=0D3C17FB770A4855B832D98952F61C62&quot;&gt;一个About页面&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;三实验过程请简单描述你的实验过程&quot;&gt;三、实验过程(请简单描述你的实验过程)&lt;/h2&gt;
+
+&lt;p&gt;在VSCode中，按照讲义里Jekyll文档进行练习&lt;/p&gt;
+
+&lt;p&gt;通过“jekyll serve”运行调试网站，并将Markdown练习内容依次以帖子形式通过“jekyll build”编译网站&lt;/p&gt;
+
+&lt;p&gt;将网站源代码push到Github.com网站&lt;/p&gt;
+
+&lt;h2 id=&quot;四总结&quot;&gt;四、总结&lt;/h2&gt;
+
+&lt;p&gt;jekyll 的功能：将纯文本转化为静态网站和博客
+通过一些常用的纯文本转换工具，如markdown编写，主要有以下几步&lt;/p&gt;
+
+&lt;p&gt;（1）创建Github Pages指定分支&lt;/p&gt;
+
+&lt;p&gt;（2）搭建jekyll环境&lt;/p&gt;
+
+&lt;p&gt;（3）本地编辑markdown，上传代码到指定分支&lt;/p&gt;
+
+&lt;p&gt;这阶段学习了用jekyll生成静态网站和博客，收获很大。
+在将网站push 到GitHub.com网站上遇到问题：&lt;/p&gt;
+
+&lt;p&gt;git clone 的下载代码的时候是连接的https://，操作 git pull/push 到远程的时候，提示输入账号和密码输入后却被拒绝，于是通过上网查找解决办法 ，学习了GitHub SSH keys配置
+总结来说，配置方法为&lt;/p&gt;
+
+&lt;p&gt;1.设置git的user name和email&lt;/p&gt;
+
+&lt;p&gt;2.检查是否存在SSH Key&lt;/p&gt;
+
+&lt;p&gt;3.获取SSH Key&lt;/p&gt;
+
+&lt;p&gt;4.添加SSH Key到GitHub&lt;/p&gt;
+
+&lt;p&gt;5.测试是否成功配置SSH Key&lt;/p&gt;
+
+&lt;p&gt;问题未解决：GitHub.com偶尔会访问不了，按照网上教程修改了以管理员的身份修改C:\Windows\System32\drivers\etc\hosts也未能有效解决&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">WEB应用软件开发实训作业-开发一个静态网站</summary></entry><entry><title type="html">Review</title><link href="/2021/04/22/review.html" rel="alternate" type="text/html" title="Review" /><published>2021-04-22T00:00:00+08:00</published><updated>2021-04-22T00:00:00+08:00</updated><id>/2021/04/22/review</id><content type="html" xml:base="/2021/04/22/review.html">&lt;p&gt;复习提纲&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://note.youdao.com/noteshare?id=ed5f8517cbc92da3476bf8c743b32d25&amp;amp;sub=FC8C12A7DEDC4FD6B5964D0930A39B38&quot;&gt;WEB课程提纲&lt;/a&gt;&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">复习提纲</summary></entry></feed>
